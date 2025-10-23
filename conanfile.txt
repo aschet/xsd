@@ -1,0 +1,7 @@
+[requires]
+xerces-c/3.3.0
+[generators]
+CMakeDeps
+CMakeToolchain
+[layout]
+cmake_layout
